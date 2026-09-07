@@ -15,5 +15,5 @@
 - [Wazuh SOC Lab](https://github.com/Ndiaye0865/wazuh-soc-lab) — Mon apprentissage complet de Wazuh
 
 ## 📫 Me contacter
-- [LinkedIn](https://www.linkedin.com/in/mouhamed-ndiaye-30b043384 )
+- [LinkedIn](https://www.linkedin.com/ )
 - [Email](mailto:ndiayemouhamed0865@gmail.com)
